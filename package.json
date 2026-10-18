@@ -1,0 +1,12 @@
+{
+  "name": "roadster-runner",
+  "version": "0.1.0",
+  "description": "A silly 8-bit Chrome-dino-style endless runner starring the flying Tesla Roadster.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "echo 'Open src/index.html in a browser (no server needed).'"
+  },
+  "license": "MIT"
+}
